@@ -94,7 +94,6 @@
      <None Include="Assets\Butterfly (Animated)\Butterfly (Animated).txt" />
      <None Include="Assets\StreamingAssets\QCAR\Image_Targets.xml" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
-     <None Include="Assets\Horse\SoftAlpha.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
  <Reference Include="UnityEngine.Analytics">
