@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Butterfly (Animated)/Demo Scene/Demo_Butterfly.unity
-  isLoaded: 1
-  isActive: 1
